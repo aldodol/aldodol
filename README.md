@@ -8,10 +8,9 @@ Undergraduate student currently studying full stack web development.
 
 A progressive web app built in collaboration with [CROSS Network (cross.net.id)](https://cross.net.id).
 
-- 🌐 Framework used: Svelte
-- 📱 Built with: PHP, HTML, Javascript
-- ☁️ Backend: Go lang
+- 📱 Built with: Svelte, HTML, and Javascript
+- ☁️ Backend: Go (Golang)
 - 🔐 Auth, database, and storage integrations
-- ❌ Not used in real-world production
+- 🎓 Developed as a college project
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiahc14220030&repo=11DG&theme=tokyonight)
