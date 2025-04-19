@@ -12,4 +12,7 @@ A progressive web app built in collaboration with [CROSS Network (cross.net.id)]
 * 🎓 Developed as a college project
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiahc14220030&repo=11DG&theme=tokyonight)
-## What 
+
+## 💻 Tech Stack
+### 📖 Currently Learning
+* AWS, Docker
