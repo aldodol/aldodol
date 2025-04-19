@@ -8,7 +8,8 @@ Undergraduate student currently studying full stack web development.
 
 A progressive web app built in collaboration with [CROSS Network (cross.net.id)](https://cross.net.id).
 
-- 📱 Front End: Svelte, ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+- 📱 Front End: ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff)
+, ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 , and JavaScript
 - ☁️ **Backend Development:** Developed the backend using Go (Golang), including server deployment and database management.
 - 🗄️ Utilized a custom database for data storage
