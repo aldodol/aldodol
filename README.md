@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Aldo
+# 👋 Hi, I'm Aldo
 
-Undergraduate student currently studying full stack web development.
+## Undergraduate student currently studying full stack web development.
 
 ## 🚀 Featured Project
 
@@ -15,3 +15,5 @@ A progressive web app built in collaboration with [CROSS Network (cross.net.id)]
 * 🎓 Developed as a college project
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiahc14220030&repo=11DG&theme=tokyonight)
+
+## What 
