@@ -6,13 +6,14 @@ I'm an undergraduate student currently studying full stack web development.
 
 ## 🚀 Featured Project
 
-### [GSJA App](https://github.com/aldodol/gsja)
+### [GSJA App](https://github.com/Jeconiahc14220030/11DG)
 
-A progressive web app built for [CROSS Network (cross.net.id)](https://cross.net.id), a certified organization.
+A progressive web app built in collaboration with [CROSS Network (cross.net.id)](https://cross.net.id).
 
-- 📱 Built with: Svelte
+- 🌐 Framework used: Svelte
+- 📱 Built with: 
 - ☁️ Backend: Go lang
 - 🔐 Auth, database, and storage integrations
-- ✅ Used in real-world production
+- ❌ Not used in real-world production
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiahc14220030&repo=11DG&theme=default)
