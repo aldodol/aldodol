@@ -2,9 +2,7 @@
 Undergraduate student currently studying full stack web development.
 
 ## 🚀 Featured Project
-
 ### [GSJA App](https://github.com/Jeconiahc14220030/11DG)
-
 A progressive web app built in collaboration with [CROSS Network (cross.net.id)](https://cross.net.id).
 
 * 🌐 Framework: ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff)
@@ -14,5 +12,4 @@ A progressive web app built in collaboration with [CROSS Network (cross.net.id)]
 * 🎓 Developed as a college project
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiahc14220030&repo=11DG&theme=tokyonight)
-
 ## What 
