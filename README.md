@@ -15,4 +15,4 @@ A progressive web app built for [CROSS Network (cross.net.id)](https://cross.net
 - 🔐 Auth, database, and storage integrations
 - ✅ Used in real-world production
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=aldodol&repo=gsja&theme=default)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiah&repo=11DG&theme=default)
