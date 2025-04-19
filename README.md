@@ -8,10 +8,10 @@ I'm an undergraduate student currently studying full stack web development.
 
 ### [GSJA App](https://github.com/aldodol/gsja)
 
-A mobile app built for [CROSS Network (cross.net.id)](https://cross.net.id), a certified organization.
+A progressive web app built for [CROSS Network (cross.net.id)](https://cross.net.id), a certified organization.
 
 - 📱 Built with: Flutter
-- ☁️ Backend: Firebase
+- ☁️ Backend: Go lang
 - 🔐 Auth, database, and storage integrations
 - ✅ Used in real-world production
 
