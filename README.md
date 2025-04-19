@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Aldo
-
-## Undergraduate student currently studying full stack web development.
+Undergraduate student currently studying full stack web development.
 
 ## 🚀 Featured Project
 
