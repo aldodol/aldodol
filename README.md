@@ -9,7 +9,7 @@ I'm an undergraduate student currently studying full stack web development.
 A progressive web app built in collaboration with [CROSS Network (cross.net.id)](https://cross.net.id).
 
 - 🌐 Framework used: Svelte
-- 📱 Built with: PHP, HTML
+- 📱 Built with: PHP, HTML, Javascript
 - ☁️ Backend: Go lang
 - 🔐 Auth, database, and storage integrations
 - ❌ Not used in real-world production
