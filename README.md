@@ -10,9 +10,9 @@ I'm an undergraduate student currently studying full stack web development.
 
 A progressive web app built for [CROSS Network (cross.net.id)](https://cross.net.id), a certified organization.
 
-- 📱 Built with: Flutter
+- 📱 Built with: Svelte
 - ☁️ Backend: Go lang
 - 🔐 Auth, database, and storage integrations
 - ✅ Used in real-world production
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiah&repo=11DG&theme=default)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Jeconiahc14220030&repo=11DG&theme=default)
