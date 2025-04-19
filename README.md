@@ -2,8 +2,6 @@
 
 I'm an undergraduate student currently studying full stack web development.
 
----
-
 ## 🚀 Featured Project
 
 ### [GSJA App](https://github.com/Jeconiahc14220030/11DG)
